@@ -283,3 +283,5 @@ This project demonstrates practical Python development concepts:
 ## License
 
 This project is available for educational and personal use.
+
+
